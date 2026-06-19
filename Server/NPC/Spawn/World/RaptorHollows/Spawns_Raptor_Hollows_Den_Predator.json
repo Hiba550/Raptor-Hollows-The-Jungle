@@ -1,0 +1,38 @@
+{
+    "Environments":  [
+                         "Env_Raptor_Hollows_Den",
+                         "Env_Raptor_Hollows_Alpha"
+                     ],
+    "NPCs":  [
+                 {
+                     "Weight":  7,
+                     "SpawnBlockSet":  "Soil",
+                     "Id":  "Raptor_Cave",
+                     "Flock":  {
+                                   "Size":  [
+                                                1,
+                                                1
+                                            ]
+                               }
+                 },
+                 {
+                     "Weight":  4,
+                     "SpawnBlockSet":  "Soil",
+                     "Id":  "Snapdragon"
+                 },
+                 {
+                     "Weight":  3,
+                     "SpawnBlockSet":  "Soil",
+                     "Id":  "Snake_Cobra"
+                 },
+                 {
+                     "Weight":  3,
+                     "SpawnBlockSet":  "Birds",
+                     "Id":  "Pterodactyl"
+                 }
+             ],
+    "DayTimeRange":  [
+                         6,
+                         18
+                     ]
+}

@@ -1,0 +1,34 @@
+{
+    "Environments":  [
+                         "Env_Raptor_Hollows",
+                         "Env_Raptor_Hollows_Edge",
+                         "Env_Raptor_Hollows_Crown"
+                     ],
+    "NPCs":  [
+                 {
+                     "Weight":  9,
+                     "SpawnBlockSet":  "Soil",
+                     "Id":  "Trillodon"
+                 },
+                 {
+                     "Weight":  8,
+                     "SpawnBlockSet":  "Soil",
+                     "Id":  "Archaeopteryx",
+                     "Flock":  "Parent_And_Young_75_25"
+                 },
+                 {
+                     "Weight":  5,
+                     "SpawnBlockSet":  "Soil",
+                     "Id":  "Gecko"
+                 },
+                 {
+                     "Weight":  2,
+                     "SpawnBlockSet":  "Soil",
+                     "Id":  "Squirrel"
+                 }
+             ],
+    "DayTimeRange":  [
+                         6,
+                         18
+                     ]
+}

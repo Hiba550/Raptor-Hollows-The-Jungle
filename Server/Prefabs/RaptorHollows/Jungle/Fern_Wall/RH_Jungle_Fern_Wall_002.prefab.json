@@ -1,0 +1,183 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -5,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Grass_Deep"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 0,
+      "name": "Plant_Fern_Jungle"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 1,
+      "name": "Plant_Grass_Jungle_Short"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Grass_Deep"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 0,
+      "name": "Plant_Fern_Tall"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Grass_Deep"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 0,
+      "name": "Plant_Fern_Jungle"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Grass_Deep"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "Plant_Fern_Tall"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 1,
+      "name": "Plant_Grass_Jungle_Short"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Grass_Deep"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Plant_Fern_Jungle"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Grass_Deep"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Plant_Fern_Tall"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Grass_Deep"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Plant_Fern_Jungle"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Plant_Grass_Jungle_Short"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Grass_Deep"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "name": "Plant_Fern_Tall"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Grass_Deep"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 0,
+      "name": "Plant_Fern_Jungle"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Grass_Deep"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 0,
+      "name": "Plant_Fern_Tall"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 1,
+      "name": "Plant_Grass_Jungle_Short"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Grass_Deep"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 0,
+      "name": "Plant_Fern_Jungle"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -1,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "Wood_Banyan_Roots"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Plant_Vine_Liana"
+    }
+  ]
+}

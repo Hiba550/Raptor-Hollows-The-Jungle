@@ -1,0 +1,19 @@
+{
+  "Group": "ModJam",
+  "Name": "RaptorHollows",
+  "Version": "1.0.0",
+  "Description": "The Jungle a dense prehistoric World Gen V2 experience where players read tracks, follow bones, and uncover raptor territory",
+  "Authors": [
+    {
+      "Name": "quillphen"
+    }
+  ],
+  "Website": "https://hytalemodjam.com",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": true,
+  "SubPlugins": []
+}

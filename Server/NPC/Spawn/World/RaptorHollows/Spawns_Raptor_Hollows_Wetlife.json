@@ -1,0 +1,55 @@
+{
+    "Environments":  [
+                         "Env_Raptor_Hollows",
+                         "Env_Raptor_Hollows_Edge",
+                         "Env_Raptor_Hollows_Crown",
+                         "Env_Raptor_Hollows_Den"
+                     ],
+    "NPCs":  [
+                 {
+                     "Weight":  8,
+                     "Id":  "Minnow",
+                     "Flock":  "Group_Small",
+                     "SpawnFluidTag":  "Water"
+                 },
+                 {
+                     "Weight":  7,
+                     "Id":  "Bluegill",
+                     "Flock":  "Group_Small",
+                     "SpawnFluidTag":  "Water"
+                 },
+                 {
+                     "Weight":  5,
+                     "Id":  "Trout_Rainbow",
+                     "Flock":  "Group_Small",
+                     "SpawnFluidTag":  "Water"
+                 },
+                 {
+                     "Weight":  4,
+                     "Id":  "Catfish",
+                     "Flock":  "Group_Small",
+                     "SpawnFluidTag":  "Water"
+                 },
+                 {
+                     "Weight":  2,
+                     "Id":  "Pike",
+                     "SpawnFluidTag":  "Water"
+                 },
+                 {
+                     "Weight":  2,
+                     "Id":  "Piranha",
+                     "Flock":  "Group_Small",
+                     "SpawnFluidTag":  "Water"
+                 },
+                 {
+                     "Weight":  1,
+                     "Id":  "Piranha_Black",
+                     "Flock":  "Group_Small",
+                     "SpawnFluidTag":  "Water"
+                 }
+             ],
+    "DayTimeRange":  [
+                         6,
+                         24
+                     ]
+}

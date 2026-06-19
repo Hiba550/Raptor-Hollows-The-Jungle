@@ -1,0 +1,76 @@
+{
+    "Type":  "NoiseRange",
+    "Biomes":  [
+                   {
+                       "Biome":  "Raptor_Hollows",
+                       "Min":  -2,
+                       "Max":  2
+                   }
+               ],
+    "DefaultBiome":  "Raptor_Hollows",
+    "DefaultTransitionDistance":  32,
+    "MaxBiomeEdgeDistance":  64,
+    "Density":  {
+                    "Type":  "Constant",
+                    "Value":  0
+                },
+    "SpawnPositions":  {
+                           "Type":  "Imported",
+                           "Name":  "RaptorHollowsShowcaseSpawns"
+                       },
+    "Framework":  [
+                      {
+                          "Type":  "Positions",
+                          "Entries":  [
+                                          {
+                                              "Name":  "RaptorHollowsShowcaseSpawns",
+                                              "Positions":  {
+                                                                "Type":  "List",
+                                                                "ExportAs":  "RaptorHollowsShowcaseSpawns",
+                                                                "Positions":  [
+                                                                                  {
+                                                                                      "X":  12,
+                                                                                      "Y":  100,
+                                                                                      "Z":  14
+                                                                                  },
+                                                                                  {
+                                                                                      "X":  44,
+                                                                                      "Y":  100,
+                                                                                      "Z":  34
+                                                                                  },
+                                                                                  {
+                                                                                      "X":  96,
+                                                                                      "Y":  100,
+                                                                                      "Z":  42
+                                                                                  }
+                                                                              ]
+                                                            }
+                                          }
+                                      ]
+                      },
+                      {
+                          "Type":  "DecimalConstants",
+                          "Entries":  [
+                                          {
+                                              "Name":  "Base",
+                                              "Value":  82
+                                          },
+                                          {
+                                              "Name":  "Water",
+                                              "Value":  76
+                                          },
+                                          {
+                                              "Name":  "Bedrock",
+                                              "Value":  0
+                                          }
+                                      ]
+                      }
+                  ],
+    "Tags":  {
+                 "Template":  [
+                                  "ModJam",
+                                  "World Gen V2",
+                                  "Raptor Hollows"
+                              ]
+             }
+}

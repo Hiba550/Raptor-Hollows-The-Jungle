@@ -1,0 +1,69 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": 0,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Pathway"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Grass_Deep"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Grass_Deep"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Deco_Bone_Spike_Large"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Deco_Bone_Spike"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Deco_Bone_Full"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Plant_Moss_Rug_Green"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "Plant_Fern_Jungle"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "name": "Plant_Grass_Jungle_Short"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 1,
+      "name": "Soil_Grass_Deep"
+    }
+  ]
+}

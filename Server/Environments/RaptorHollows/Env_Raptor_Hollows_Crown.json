@@ -1,0 +1,348 @@
+{
+    "WaterTint":  "#8f7d3b",
+    "SpawnDensity":  0.86,
+    "Tags":  {
+                 "Zone4":  [
+                               "Jungles",
+                               "RaptorHollows"
+                           ]
+             },
+    "WeatherForecasts":  {
+                             "0":  [
+                                       {
+                                           "WeatherId":  "Zone4_Underground_Jungle_Pink",
+                                           "Weight":  55
+                                       },
+                                       {
+                                           "WeatherId":  "Zone4_Forest_Root",
+                                           "Weight":  30
+                                       },
+                                       {
+                                           "WeatherId":  "Zone4_Underground_Jungle",
+                                           "Weight":  15
+                                       }
+                                   ],
+                             "1":  [
+                                       {
+                                           "WeatherId":  "Zone4_Underground_Jungle_Pink",
+                                           "Weight":  55
+                                       },
+                                       {
+                                           "WeatherId":  "Zone4_Forest_Root",
+                                           "Weight":  30
+                                       },
+                                       {
+                                           "WeatherId":  "Zone4_Underground_Jungle",
+                                           "Weight":  15
+                                       }
+                                   ],
+                             "2":  [
+                                       {
+                                           "WeatherId":  "Zone4_Underground_Jungle_Pink",
+                                           "Weight":  55
+                                       },
+                                       {
+                                           "WeatherId":  "Zone4_Forest_Root",
+                                           "Weight":  30
+                                       },
+                                       {
+                                           "WeatherId":  "Zone4_Underground_Jungle",
+                                           "Weight":  15
+                                       }
+                                   ],
+                             "3":  [
+                                       {
+                                           "WeatherId":  "Zone4_Underground_Jungle_Pink",
+                                           "Weight":  55
+                                       },
+                                       {
+                                           "WeatherId":  "Zone4_Forest_Root",
+                                           "Weight":  30
+                                       },
+                                       {
+                                           "WeatherId":  "Zone4_Underground_Jungle",
+                                           "Weight":  15
+                                       }
+                                   ],
+                             "4":  [
+                                       {
+                                           "WeatherId":  "Zone4_Underground_Jungle_Pink",
+                                           "Weight":  55
+                                       },
+                                       {
+                                           "WeatherId":  "Zone4_Forest_Root",
+                                           "Weight":  30
+                                       },
+                                       {
+                                           "WeatherId":  "Zone4_Underground_Jungle",
+                                           "Weight":  15
+                                       }
+                                   ],
+                             "5":  [
+                                       {
+                                           "WeatherId":  "Zone4_Underground_Jungle_Pink",
+                                           "Weight":  55
+                                       },
+                                       {
+                                           "WeatherId":  "Zone4_Forest_Root",
+                                           "Weight":  30
+                                       },
+                                       {
+                                           "WeatherId":  "Zone4_Underground_Jungle",
+                                           "Weight":  15
+                                       }
+                                   ],
+                             "6":  [
+                                       {
+                                           "WeatherId":  "Zone4_Underground_Jungle_Pink",
+                                           "Weight":  55
+                                       },
+                                       {
+                                           "WeatherId":  "Zone4_Forest_Root",
+                                           "Weight":  30
+                                       },
+                                       {
+                                           "WeatherId":  "Zone4_Underground_Jungle",
+                                           "Weight":  15
+                                       }
+                                   ],
+                             "7":  [
+                                       {
+                                           "WeatherId":  "Zone4_Underground_Jungle_Pink",
+                                           "Weight":  55
+                                       },
+                                       {
+                                           "WeatherId":  "Zone4_Forest_Root",
+                                           "Weight":  30
+                                       },
+                                       {
+                                           "WeatherId":  "Zone4_Underground_Jungle",
+                                           "Weight":  15
+                                       }
+                                   ],
+                             "8":  [
+                                       {
+                                           "WeatherId":  "Zone4_Underground_Jungle_Pink",
+                                           "Weight":  55
+                                       },
+                                       {
+                                           "WeatherId":  "Zone4_Forest_Root",
+                                           "Weight":  30
+                                       },
+                                       {
+                                           "WeatherId":  "Zone4_Underground_Jungle",
+                                           "Weight":  15
+                                       }
+                                   ],
+                             "9":  [
+                                       {
+                                           "WeatherId":  "Zone4_Underground_Jungle_Pink",
+                                           "Weight":  55
+                                       },
+                                       {
+                                           "WeatherId":  "Zone4_Forest_Root",
+                                           "Weight":  30
+                                       },
+                                       {
+                                           "WeatherId":  "Zone4_Underground_Jungle",
+                                           "Weight":  15
+                                       }
+                                   ],
+                             "10":  [
+                                        {
+                                            "WeatherId":  "Zone4_Underground_Jungle_Pink",
+                                            "Weight":  55
+                                        },
+                                        {
+                                            "WeatherId":  "Zone4_Forest_Root",
+                                            "Weight":  30
+                                        },
+                                        {
+                                            "WeatherId":  "Zone4_Underground_Jungle",
+                                            "Weight":  15
+                                        }
+                                    ],
+                             "11":  [
+                                        {
+                                            "WeatherId":  "Zone4_Underground_Jungle_Pink",
+                                            "Weight":  55
+                                        },
+                                        {
+                                            "WeatherId":  "Zone4_Forest_Root",
+                                            "Weight":  30
+                                        },
+                                        {
+                                            "WeatherId":  "Zone4_Underground_Jungle",
+                                            "Weight":  15
+                                        }
+                                    ],
+                             "12":  [
+                                        {
+                                            "WeatherId":  "Zone4_Underground_Jungle_Pink",
+                                            "Weight":  55
+                                        },
+                                        {
+                                            "WeatherId":  "Zone4_Forest_Root",
+                                            "Weight":  30
+                                        },
+                                        {
+                                            "WeatherId":  "Zone4_Underground_Jungle",
+                                            "Weight":  15
+                                        }
+                                    ],
+                             "13":  [
+                                        {
+                                            "WeatherId":  "Zone4_Underground_Jungle_Pink",
+                                            "Weight":  55
+                                        },
+                                        {
+                                            "WeatherId":  "Zone4_Forest_Root",
+                                            "Weight":  30
+                                        },
+                                        {
+                                            "WeatherId":  "Zone4_Underground_Jungle",
+                                            "Weight":  15
+                                        }
+                                    ],
+                             "14":  [
+                                        {
+                                            "WeatherId":  "Zone4_Underground_Jungle_Pink",
+                                            "Weight":  55
+                                        },
+                                        {
+                                            "WeatherId":  "Zone4_Forest_Root",
+                                            "Weight":  30
+                                        },
+                                        {
+                                            "WeatherId":  "Zone4_Underground_Jungle",
+                                            "Weight":  15
+                                        }
+                                    ],
+                             "15":  [
+                                        {
+                                            "WeatherId":  "Zone4_Underground_Jungle_Pink",
+                                            "Weight":  55
+                                        },
+                                        {
+                                            "WeatherId":  "Zone4_Forest_Root",
+                                            "Weight":  30
+                                        },
+                                        {
+                                            "WeatherId":  "Zone4_Underground_Jungle",
+                                            "Weight":  15
+                                        }
+                                    ],
+                             "16":  [
+                                        {
+                                            "WeatherId":  "Zone4_Underground_Jungle_Pink",
+                                            "Weight":  55
+                                        },
+                                        {
+                                            "WeatherId":  "Zone4_Forest_Root",
+                                            "Weight":  30
+                                        },
+                                        {
+                                            "WeatherId":  "Zone4_Underground_Jungle",
+                                            "Weight":  15
+                                        }
+                                    ],
+                             "17":  [
+                                        {
+                                            "WeatherId":  "Zone4_Underground_Jungle_Pink",
+                                            "Weight":  55
+                                        },
+                                        {
+                                            "WeatherId":  "Zone4_Forest_Root",
+                                            "Weight":  30
+                                        },
+                                        {
+                                            "WeatherId":  "Zone4_Underground_Jungle",
+                                            "Weight":  15
+                                        }
+                                    ],
+                             "18":  [
+                                        {
+                                            "WeatherId":  "Zone4_Underground_Jungle_Pink",
+                                            "Weight":  55
+                                        },
+                                        {
+                                            "WeatherId":  "Zone4_Forest_Root",
+                                            "Weight":  30
+                                        },
+                                        {
+                                            "WeatherId":  "Zone4_Underground_Jungle",
+                                            "Weight":  15
+                                        }
+                                    ],
+                             "19":  [
+                                        {
+                                            "WeatherId":  "Zone4_Underground_Jungle_Pink",
+                                            "Weight":  55
+                                        },
+                                        {
+                                            "WeatherId":  "Zone4_Forest_Root",
+                                            "Weight":  30
+                                        },
+                                        {
+                                            "WeatherId":  "Zone4_Underground_Jungle",
+                                            "Weight":  15
+                                        }
+                                    ],
+                             "20":  [
+                                        {
+                                            "WeatherId":  "Zone4_Underground_Jungle_Pink",
+                                            "Weight":  55
+                                        },
+                                        {
+                                            "WeatherId":  "Zone4_Forest_Root",
+                                            "Weight":  30
+                                        },
+                                        {
+                                            "WeatherId":  "Zone4_Underground_Jungle",
+                                            "Weight":  15
+                                        }
+                                    ],
+                             "21":  [
+                                        {
+                                            "WeatherId":  "Zone4_Underground_Jungle_Pink",
+                                            "Weight":  55
+                                        },
+                                        {
+                                            "WeatherId":  "Zone4_Forest_Root",
+                                            "Weight":  30
+                                        },
+                                        {
+                                            "WeatherId":  "Zone4_Underground_Jungle",
+                                            "Weight":  15
+                                        }
+                                    ],
+                             "22":  [
+                                        {
+                                            "WeatherId":  "Zone4_Underground_Jungle_Pink",
+                                            "Weight":  55
+                                        },
+                                        {
+                                            "WeatherId":  "Zone4_Forest_Root",
+                                            "Weight":  30
+                                        },
+                                        {
+                                            "WeatherId":  "Zone4_Underground_Jungle",
+                                            "Weight":  15
+                                        }
+                                    ],
+                             "23":  [
+                                        {
+                                            "WeatherId":  "Zone4_Underground_Jungle_Pink",
+                                            "Weight":  55
+                                        },
+                                        {
+                                            "WeatherId":  "Zone4_Forest_Root",
+                                            "Weight":  30
+                                        },
+                                        {
+                                            "WeatherId":  "Zone4_Underground_Jungle",
+                                            "Weight":  15
+                                        }
+                                    ]
+                         }
+}

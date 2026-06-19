@@ -1,0 +1,984 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -8,
+      "y": -1,
+      "z": -2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -8,
+      "y": -1,
+      "z": -1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -8,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -8,
+      "y": -1,
+      "z": 1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -8,
+      "y": -1,
+      "z": 2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -8,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": -8,
+      "y": 0,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": -8,
+      "y": 1,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": -8,
+      "y": 1,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": -8,
+      "y": 2,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": -8,
+      "y": 2,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": -7,
+      "y": -1,
+      "z": -2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -7,
+      "y": -1,
+      "z": -1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -7,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -7,
+      "y": -1,
+      "z": 1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -7,
+      "y": -1,
+      "z": 2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -6,
+      "y": -1,
+      "z": -2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -6,
+      "y": -1,
+      "z": -1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -6,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -6,
+      "y": -1,
+      "z": 1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -6,
+      "y": -1,
+      "z": 2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": -2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": -1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": 1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": 2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 0,
+      "name": "Plant_Vine_Liana"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": -2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": -1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": -2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": -1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": -2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": -1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 0,
+      "name": "Plant_Vine_Liana"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": 1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": 2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 0,
+      "name": "Plant_Vine_Liana"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": -2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": -1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": 1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": 2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": -2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": -1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": 1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": 2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "z": -2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "z": -1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "z": 1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "z": 2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 7,
+      "y": -1,
+      "z": -2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 7,
+      "y": -1,
+      "z": -1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 7,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 7,
+      "y": -1,
+      "z": 1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 7,
+      "y": -1,
+      "z": 2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": -2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 2,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 0,
+      "name": "Plant_Vine_Liana"
+    },
+    {
+      "x": 8,
+      "y": -1,
+      "z": -2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 8,
+      "y": -1,
+      "z": -1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 8,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 8,
+      "y": -1,
+      "z": 1,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 8,
+      "y": -1,
+      "z": 2,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "Deco_Nest"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Deco_Bone_Full",
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -1,
+      "name": "Deco_Bone_Pile"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 3,
+      "name": "Plant_Fern_Tall"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -3,
+      "name": "Plant_Fern_Jungle"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 0,
+      "name": "Block_Spawner_Block",
+      "rotation": 1,
+      "components": {
+        "Components": {
+          "BlockSpawner": {
+            "BlockSpawnerId": "Zone4_Encounters_Tier1"
+          }
+        }
+      }
+    }
+  ]
+}

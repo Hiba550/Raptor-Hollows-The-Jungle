@@ -1,0 +1,75 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": 0,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Deco_Bone_Pile"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Deco_Bone_Ribs"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Deco_Bone_Skulls"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Deco_Bone_Spike"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 1,
+      "name": "Plant_Fern_Jungle"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -1,
+      "name": "Plant_Fern_Tall"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -1,
+      "name": "Soil_Grass_Deep"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+    "Environments":  [
+                         "Env_Raptor_Hollows",
+                         "Env_Raptor_Hollows_Edge"
+                     ],
+    "NPCs":  [
+                 {
+                     "Weight":  5,
+                     "SpawnBlockSet":  "Mud",
+                     "Id":  "Frog_Green"
+                 },
+                 {
+                     "Weight":  4,
+                     "SpawnBlockSet":  "Mud",
+                     "Id":  "Frog_Blue"
+                 },
+                 {
+                     "Weight":  3,
+                     "SpawnBlockSet":  "Mud",
+                     "Id":  "Frog_Orange"
+                 },
+                 {
+                     "Weight":  2,
+                     "SpawnBlockSet":  "Mud",
+                     "Id":  "Toad_Rhino"
+                 }
+             ],
+    "DayTimeRange":  [
+                         0,
+                         24
+                     ]
+}

@@ -1,0 +1,31 @@
+{
+    "Environments":  [
+                         "Env_Raptor_Hollows",
+                         "Env_Raptor_Hollows_Edge",
+                         "Env_Raptor_Hollows_Crown",
+                         "Env_Raptor_Hollows_Den",
+                         "Env_Raptor_Hollows_Alpha"
+                     ],
+    "NPCs":  [
+                 {
+                     "Weight":  5,
+                     "SpawnBlockSet":  "Birds",
+                     "Id":  "Bat",
+                     "Flock":  "Group_Small"
+                 },
+                 {
+                     "Weight":  3,
+                     "SpawnBlockSet":  "Birds",
+                     "Id":  "Raven"
+                 },
+                 {
+                     "Weight":  3,
+                     "SpawnBlockSet":  "Soil",
+                     "Id":  "Mouse"
+                 }
+             ],
+    "DayTimeRange":  [
+                         18,
+                         24
+                     ]
+}

@@ -1,0 +1,33 @@
+{
+    "Environments":  [
+                         "Env_Raptor_Hollows",
+                         "Env_Raptor_Hollows_Edge",
+                         "Env_Raptor_Hollows_Crown"
+                     ],
+    "NPCs":  [
+                 {
+                     "Weight":  6,
+                     "SpawnBlockSet":  "Birds",
+                     "Id":  "Parrot"
+                 },
+                 {
+                     "Weight":  5,
+                     "SpawnBlockSet":  "Birds",
+                     "Id":  "Finch_Green"
+                 },
+                 {
+                     "Weight":  5,
+                     "SpawnBlockSet":  "Birds",
+                     "Id":  "Bluebird"
+                 },
+                 {
+                     "Weight":  4,
+                     "SpawnBlockSet":  "Birds",
+                     "Id":  "Tetrabird"
+                 }
+             ],
+    "DayTimeRange":  [
+                         6,
+                         20
+                     ]
+}

@@ -1,0 +1,87 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -2,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Pathway"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Mud"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 0,
+      "name": "Soil_Pathway"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Sticks"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Jungle_Roots"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Deco_Bone_Spike"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 0,
+      "name": "Deco_Bone_Spike"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "Plant_Vine_Thick_Roots"
+    }
+  ]
+}

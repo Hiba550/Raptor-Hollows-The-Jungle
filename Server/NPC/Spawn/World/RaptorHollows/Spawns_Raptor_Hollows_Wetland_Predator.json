@@ -1,0 +1,28 @@
+{
+    "Environments":  [
+                         "Env_Raptor_Hollows_Crown",
+                         "Env_Raptor_Hollows_Den",
+                         "Env_Raptor_Hollows_Alpha"
+                     ],
+    "NPCs":  [
+                 {
+                     "Weight":  3,
+                     "SpawnBlockSet":  "Mud",
+                     "Id":  "Snake_Marsh"
+                 },
+                 {
+                     "Weight":  2,
+                     "SpawnBlockSet":  "Mud",
+                     "Id":  "Crocodile"
+                 },
+                 {
+                     "Weight":  2,
+                     "SpawnBlockSet":  "Mud",
+                     "Id":  "Toad_Rhino"
+                 }
+             ],
+    "DayTimeRange":  [
+                         0,
+                         24
+                     ]
+}

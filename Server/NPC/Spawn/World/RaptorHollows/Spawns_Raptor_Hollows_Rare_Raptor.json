@@ -1,0 +1,22 @@
+{
+    "Environments":  [
+                         "Env_Raptor_Hollows_Crown"
+                     ],
+    "NPCs":  [
+                 {
+                     "Weight":  1,
+                     "SpawnBlockSet":  "Soil",
+                     "Id":  "Raptor_Cave",
+                     "Flock":  {
+                                   "Size":  [
+                                                1,
+                                                1
+                                            ]
+                               }
+                 }
+             ],
+    "DayTimeRange":  [
+                         6,
+                         18
+                     ]
+}
